@@ -21,6 +21,6 @@ localhost:5000/api/org/category/gpt/v0
 The body part of the request should be in json format
 
 {
-  "title": /<title/> ,
-  "description": /<description/>
+  "title": <title> , <br>
+  "description": <description>
 }
