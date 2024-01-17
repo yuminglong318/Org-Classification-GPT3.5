@@ -14,13 +14,13 @@ To get the better result, you can update the descriptions of each category on de
 
 $ python app.py
 
-$ API Endpoint
+# API Endpoint
 
 localhost:5000/api/org/category/gpt/v0
 
-the body part of the request should be in json format
+The body part of the request should be in json format
 
 {
-  "title": /<title/>,
+  "title": /<title/> ,
   "description": /<description/>
 }
